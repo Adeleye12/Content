@@ -20,6 +20,8 @@
 
 [MAXIMIZING GLP YIELD ON PLUTUSDAO](https://x.com/adexx_web3/status/1598620809697890304?s=46&t=iod-qTMX97lgZhsIN8-g6A)
 
+[All Rollups Will Be ZK Rollups](https://medium.com/@Adexx_Web3/-1f02465e5722)
+
 # 
 
 Twitter: https://x.com/adexx_web3
