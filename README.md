@@ -1,6 +1,6 @@
 # 
 
-- ✍️ Hi, I’m a Writer, Research Analyst and a Meme Creator
+- ✍️ Hi, I’m a Writer and Research Analyst 
 - 📝 I'm interested in contributing and providing value to projects through my skills
 - 📭 I'm open to Intern, Content Writing and Research Opportunities
 
@@ -12,6 +12,8 @@
 - Certificate(Bsc Mathematics)
 
 # My Writing	
+[Transforming Traditional Infrastructure: The Role of DePINS in Blockchain Innovation](https://paragraph.com/@adexxresearch/transforming-traditional-infrastructure-the-role-of-depins-in-blockchain-innovation)
+
 [OVERVIEW OF SWAPKIT](https://medium.com/@Adexx_Web3/introducing-swapkit-by-thorswap-the-most-complete-tooling-for-thorchain-d38bb48dc845)
 
 [OVERVIEW OF DEPIN PROJECTS IN THE DEWI SPACE](https://x.com/adexx_web3/status/1903408695557468669?s=46&t=iod-qTMX97lgZhsIN8-g6A)
@@ -27,5 +29,7 @@
 Twitter: https://x.com/adexx_web3
 
 Medium: https://medium.com/@Adexx_Web3
+
+Paragraph: https://paragraph.com/@adexxresearch
 	
-Writing new articles weekly
+ 
