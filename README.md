@@ -1,6 +1,6 @@
 # 
 
-- ✍️ Hi, I’m a Writer and Research Analyst 
+- ✍️ Hi, I’m a Technical Writer and a Research Analyst 
 - 📝 I'm interested in contributing and providing value to projects through my skills
 - 📭 I'm open to Intern, Content Writing and Research Opportunities
 
@@ -11,8 +11,8 @@
 - Good Research and Analytical skill
 - Certificate(Bsc Mathematics)
 
-# My Writing	
-[Transforming Traditional Infrastructure: The Role of DePINS in Blockchain Innovation](https://paragraph.com/@adexxresearch/transforming-traditional-infrastructure-the-role-of-depins-in-blockchain-innovation)
+# My Writings	
+[Transforming Traditional Infrastructure: The Role of DePIN in Blockchain Innovation](https://paragraph.com/@adexxresearch/transforming-traditional-infrastructure-the-role-of-depins-in-blockchain-innovation)
 
 [OVERVIEW OF SWAPKIT](https://medium.com/@Adexx_Web3/introducing-swapkit-by-thorswap-the-most-complete-tooling-for-thorchain-d38bb48dc845)
 
